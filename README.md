@@ -1,0 +1,1 @@
+This a clock which shows current Indian Standard Time in hours, minutes & seconds. It also shows current date and year![clock](https://user-images.githubusercontent.com/80446752/169959160-f035ada7-0fcc-4c89-97e3-f77212e9b868.JPG)
